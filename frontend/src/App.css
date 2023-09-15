@@ -1,0 +1,15 @@
+* {
+  /*  universal selector */
+  margin: 0;
+
+}
+
+.App {
+  background-color: #dddedd;
+  min-height: 100vh;
+  /* viewport height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
